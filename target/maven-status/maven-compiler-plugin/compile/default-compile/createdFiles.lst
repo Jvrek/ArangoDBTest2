@@ -1,0 +1,5 @@
+CinemaService.class
+Main.class
+CinemaRepositoryAdapter.class
+models\Cinema.class
+ArangoDBInitializer.class
